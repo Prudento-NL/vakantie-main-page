@@ -21,8 +21,8 @@
 title: Vakantie blog
 email: webmaster@prudento.nl
 description: Blog van de vakanties
-#baseurl: "/vakantie-main-page" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/vakantie-main-page" # the subpath of your site, e.g. /blog
+url: "https://prudento-nl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
