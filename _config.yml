@@ -2,9 +2,6 @@ title: Vakantie blog
 email: webmaster@prudento.nl
 description: Blog van de vakanties
 url: "https://prudento-nl.github.io/vakantie-main-page/"
-avatar: https://www.prudento.nl/assets/logo/logo_200x67_blue.png
-favicon: https://www.prudento.nl/assets/icons/favicon.png
-domain: prudento.nl
 
 # Build settings
 theme: minima
