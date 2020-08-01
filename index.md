@@ -4,6 +4,12 @@ layout: home
 **Terug naar [Prudento.nl](https://www.prudento.nl/)**  
 
 ---
+# 2020
+## [Kampeervakantie Frankrijk](https://prudento-nl.github.io/2020-08-frankrijk/)
+_Augustus en september 2020_  
+De kampeervakantie van augustus en september 2020 naar Frankrijk.  
+
+---
 # 2019
 ## [Kampeervakantie Frankrijk](https://prudento-nl.github.io/2019-05-frankrijk/)
 _Mei en juni 2019_  
