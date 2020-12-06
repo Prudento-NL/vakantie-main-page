@@ -1,7 +1,8 @@
 title: Vakantie blog
 email: webmaster@prudento.nl
 description: Blog van de vakanties
-url: "https://prudento-nl.github.io/vakantie-main-page/"
+baseurl: "/vakantie-main-page" 
+url: "https://prudento-nl.github.io" 
 
 # Build settings
 theme: minima
