@@ -4,6 +4,12 @@ layout: home
 **Terug naar [Prudento.nl](https://www.prudento.nl/)**  
 
 ---
+# 2021
+## [Kampeervakantie Friesland](https://prudento-nl.github.io/2021-06-friesland/)
+_Juni 2021_  
+De kampeervakantie van juni 2021 naar Friesland.  
+
+---
 # 2020
 ## [Kampeervakantie Frankrijk](https://prudento-nl.github.io/2020-08-frankrijk/)
 _Augustus en september 2020_  
