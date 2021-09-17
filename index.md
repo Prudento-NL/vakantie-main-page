@@ -5,6 +5,10 @@ layout: home
 
 ---
 # 2021
+## [Najaarsvakantie Nijmegen en Snikzwaag](https://prudento-nl.github.io/2021-09-nijmegen-en-snikzwaag/)
+_September 2021_  
+De najaarsvakantie van september 2021 naar Nijmegen en Snikzwaag.   
+
 ## [Kampeervakantie Friesland](https://prudento-nl.github.io/2021-06-friesland/)
 _Juni 2021_  
 De kampeervakantie van juni 2021 naar Friesland.  
