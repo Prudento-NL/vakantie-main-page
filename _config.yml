@@ -3,6 +3,7 @@ email: webmaster@prudento.nl
 description: Blog van de vakanties
 baseurl: "/vakantie-main-page" 
 url: "https://prudento-nl.github.io" 
+favicon: https://www.prudento.nl/assets/icons/favicon.png
 
 # Build settings
 theme: minima
