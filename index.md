@@ -4,6 +4,11 @@ layout: home
 **Terug naar [Prudento.nl](https://www.prudento.nl/)**  
 
 ---
+# 2022
+## [Kampeervakantie Frankrijk](https://prudento-nl.github.io/2022-06-frankrijk/)
+_Juni 2022_  
+De kampeervakantie van juni 2022 naar Frankrijk.  
+
 # 2021
 ## [Najaarsvakantie Nijmegen en Snikzwaag](https://prudento-nl.github.io/2021-09-nijmegen-en-snikzwaag/)
 _September 2021_  
