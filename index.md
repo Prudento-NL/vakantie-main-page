@@ -2,12 +2,14 @@
 layout: home
 ---
 **Terug naar [Prudento.nl](https://www.prudento.nl/)**  
+
 ---
 # 2022
 ## [Kampeervakantie Frankrijk](https://prudento-nl.github.io/2022-08-frankrijk/)
 _Augustus en september 2022_  
 De kampeervakantie van augustus en september 2022 naar Frankrijk.  
 
+## [Kampeervakantie Frankrijk](https://prudento-nl.github.io/2022-06-frankrijk/)  
 _Juni 2022_  
 De kampeervakantie van juni 2022 naar Frankrijk.  
 
